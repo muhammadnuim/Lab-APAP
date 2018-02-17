@@ -1,2 +1,8 @@
 haiiiii apa kabarr ??
+<<<<<<< HEAD
 hahahaha
+=======
+matamu melemahkan ku
+dari matamuaaa
+>>>>>>> 4e4c6b23e17d166866826ad4e12737576020d177
+waawauu
